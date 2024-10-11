@@ -1,26 +1,39 @@
-<h1 align="center">Hi 👋, I'm Omkar Dnyanoba Chebale</h1>
-<h3 align="center">Dynamic Full Stack developer from India.</h3>
+![👋 Hi, my name is Omkar Chebale](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-- 🔭 I’m currently working at [Recursive Zero](https://recursivezero.com/)
+![Profile views](https://komarev.com/ghpvc/?username=Chebaleomkar&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Astro**
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Omkar Chebale
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://omkar-chebale-5765b7.netlify.app/](https://omkar-chebale-5765b7.netlify.app/)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="omkarchebale0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/omkar-chebale-8b251726b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/chebalerushi" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Chebaleomkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-- 💬 Ask me about **React , NextJS**
+ **<h3 align="left">    🚀 As a dynamic full-stack engineer, I breathe life into the digital realm through the art of coding. Proficient in JavaScript, React, and Node.js, I've sculpted innovative projects, meticulously crafted and available for exploration on my GitHub.
+</h3>**
 
-- 📫 How to reach me **omkarchebale0@gmail.com**
+**<h3 align="left">Rapid Fire</h3>**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zJGPPHrJnGM8eqOeoVQON2B_93XgMhqf/view?usp=drive_link](https://drive.google.com/file/d/1zJGPPHrJnGM8eqOeoVQON2B_93XgMhqf/view?usp=drive_link)
+- 💼 I'm currently working on: **💻 Developing college disciplinary project**
+- 🌱 I'm currently learning: **📚 Hono , Astro , Nextjs**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🎢 my challenges  have level**
+- 📂 Portfolio: **<a href="kar-chebale-5765b7.netlify.app" target="_blank">kar-chebale-5765b7.netlify.app</a>**
 
-- ⚡ Fun fact **I love to explore the new perspective and unlock the unknown power within me**
+ **<h3 align="left">Skills</h3>**
 
-<h3 align="left">Connect with me:</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=prisma" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=astro" height="32" alt="Astro" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sass" height="32" alt="Sass" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=express" height="32" alt="Express" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bun" height="32" alt="Bun" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=deno" height="32" alt="Deno" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
 <p align="left">
-<a href="https://twitter.com/chebalerushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chebalerushi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkar chebale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar chebale" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/omkar chebale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="omkar chebale" height="30" width="40" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chebaleomkar&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chebaleomkar&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>

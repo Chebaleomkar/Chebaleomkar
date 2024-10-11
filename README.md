@@ -24,7 +24,7 @@
 - 🌱 I'm currently learning: **📚 Hono , Astro , Nextjs**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 my challenges  have level**
-- 📂 Portfolio: **<a href="kar-chebale-5765b7.netlify.app" target="_blank">kar-chebale-5765b7.netlify.app</a>**
+- 📂 Portfolio: **<a href="https://omkar-chebale-5765b7.netlify.app/" target="_blank">https://omkar-chebale-5765b7.netlify.app/</a>**
 
  **<h3 align="left">Skills</h3>**
 

@@ -18,6 +18,10 @@
  **<h3 align="left">    🚀 As a dynamic full-stack engineer, I breathe life into the digital realm through the art of coding. Proficient in JavaScript, React, and Node.js, I've sculpted innovative projects, meticulously crafted and available for exploration on my GitHub.
 </h3>**
 
+**<h3 align="left"> Resume :[omkar chebale resume.pdf](https://github.com/user-attachments/files/17447346/omkar.chebale.resume.pdf)
+   </h3>**
+
+
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing college disciplinary project**

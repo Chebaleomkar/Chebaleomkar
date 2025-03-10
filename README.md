@@ -16,7 +16,7 @@
 
 <p align="left"><a href="omkarchebale0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/omkar-chebale-8b251726b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/chebalerushi" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Chebaleomkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- <h3 align="left">    🚀 As a dynamic full-stack engineer, I breathe life into the digital realm through the art of coding. Proficient in JavaScript, React, and Node.js, I've sculpted innovative projects, meticulously crafted and available for exploration on my GitHub.
+ <h3 align="left">    🚀 As a dynamic full-stack engineer, I breathe life into the digital realm through the art of coding.I'm the developer with a growing interest in DevOps and currently diving into the world of Web3.
 </h3>
 
 <h3 align="left">

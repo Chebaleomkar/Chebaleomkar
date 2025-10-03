@@ -28,7 +28,7 @@
 - 🌱 I'm currently learning: **Machine Learning, Deep Learning , NLP ,AI**
 - 💬 Ask me about: **💡 machine learning,Ai, MERN**
 - ⚡ Fun fact: **🎢 my challenges have level**
-- 📂 Portfolio: **<a href="https://omkarchebale.vercel.app/" target="_blank">https://omkar-chebale-5765b7.netlify.app/</a>**
+- 📂 Portfolio: **<a href="https://omkarchebale.vercel.app/" target="_blank">omkarchebale.vercel.app/</a>**
 
  **<h3 align="left">Skills</h3>**
 

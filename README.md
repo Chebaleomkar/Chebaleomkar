@@ -16,7 +16,14 @@
 
  <p align="left"><a href="omkarchebale0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/omkar-chebale-8b251726b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/chebalerushi" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Chebaleomkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p> 
 
- <h3 align="left">    🚀 As a dynamic software engineer, I breathe life into the digital realm through the art of coding.I'm the developer with a growing interest in Ai and machine learning and currently diving into the world of AI ecosystem.
+ <h3 align="left"> I’m currently exploring the intersection of machine learning, deep learning, NLP, transformers, LLMs, agentic AI, MLOps, MCP, and RAG systems—pushing myself to bridge product engineering with applied intelligence and build solutions that don’t just automate but actually think, learn, and evolve.
+
+My journey started in a Tier-3 city with limited resources but unlimited curiosity. From freelancing for small businesses to interning as a full-stack developer, I learned to design, build, and deploy solutions that actually solve problems—not just pass technical tests.
+
+I perform best in environments that value ownership, speed, and creativity—where I can take responsibility for outcomes, not just outputs. Whether it’s leading a small dev team, mentoring juniors, or building from scratch, I bring the same mindset:
+If it needs to work, I’ll make it work.
+
+🚀 Always open to opportunities in AI/ML development, full-stack engineering, and product-focused roles that challenge me to build smarter and better every day.
 </h3>
 
 <!-- <h3 align="left">

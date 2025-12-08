@@ -1,23 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=Chebaleomkar&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <div align="center">
   <h1>👋 Hi, I'm Omkar Chebale</h1>
-  <p><strong>Full-Stack ML Engineer | AI/LLM Enthusiast | Building Intelligent Solutions</strong></p>
+  <p><strong>Full-Stack  + AI/ML Engineer |  LLMs • RAG • NLP • MLOps • Agentic Ai • Deep Learning   </strong></p>
 </div>
-
----
-
-## 📑 Quick Navigation
-- [About Me](#about-me)
-- [Connect With Me](#connect-with-me)
-- [Current Focus](#current-focus)
-- [Quick Facts](#quick-facts)
-- [Tech Stack](#tech-stack)
-- [GitHub Statistics](#github-statistics)
-
----
-
-## 👤 About Me
 
 I'm a **Full-Stack ML Engineer** passionate about bridging the gap between product engineering and applied intelligence. My expertise spans machine learning, deep learning, full-stack development, and AI/LLM deployment.
 

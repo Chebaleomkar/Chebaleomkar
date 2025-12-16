@@ -18,8 +18,8 @@ I'm a **Full-Stack ML Engineer** passionate about building scalable AI systems a
 - 🚀 Entrepreneurial spirit with ambitions in AI startups
 
 ### 💼 Professional Experience
-- **AI Engineer** at Xclusive Interiors Pvt Ltd: Developing AI-powered blog generation workflows using Gemini API and n8n automation. Building end-to-end content systems and workflow orchestration.
-- **Full Stack Developer Intern** at RecursiveZero Pvt Ltd: Built production-grade full-stack applications with modern web technologies. Developed APIs, implemented database optimizations, and deployed scalable solutions.
+- **AI Engineer** at Xclusive Interiors Pvt Ltd: Current
+- **Full Stack Developer ** at RecursiveZero Pvt Ltd: Built B2B textile E-Commerce Platform.
 
 ---
 

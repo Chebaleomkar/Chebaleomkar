@@ -11,20 +11,15 @@
 I'm a **Full-Stack ML Engineer** passionate about building scalable AI systems and deploying production-grade machine learning models. With expertise spanning deep learning, NLP, and full-stack development, I specialize in architecting end-to-end AI workflows and transforming complex problems into elegant solutions.
 
 ### 🎯 My Journey
-- 🌍 Started in Pune (Tier-3 city) with limited resources but unlimited curiosity
-- 🔄 Transitioned from freelance web development to AI/ML engineering
+- 🌍 Started in Latur (Tier-3 city) with limited resources but unlimited curiosity
+- 🔄 Transitioned from  MERN stack developer to AI/ML engineer
 - 🏗️ Built and deployed ML models, full-stack applications, and AI-powered workflows
 - 💡 Strong believer in learning by building and solving real-world problems
 - 🚀 Entrepreneurial spirit with ambitions in AI startups
 
 ### 💼 Professional Experience
-- **AI/ML Internship** at Xclusive Interiors: Developed blog generation workflows using Gemini API and n8n automation
-- **Full-Stack Development**: Built Telegram bots, workflow automation systems, and APIs
-- **Project Highlights**:
-  - 🧠 Handwritten Digit Classification CNN: 99.4% accuracy
-  - 📝 Multi-language Blog Generation System with Gemini API integration
-  - ⚙️ End-to-end workflow automation with n8n and Telegram Bot API
-  - 🤖 Agentic AI prototypes for task automation
+- **AI Engineer** at Xclusive Interiors Pvt Ltd: Developing AI-powered blog generation workflows using Gemini API and n8n automation. Building end-to-end content systems and workflow orchestration.
+- **Full Stack Developer Intern** at RecursiveZero Pvt Ltd: Built production-grade full-stack applications with modern web technologies. Developed APIs, implemented database optimizations, and deployed scalable solutions.
 
 ---
 

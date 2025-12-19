@@ -44,7 +44,7 @@ I'm a **Full-Stack ML Engineer** passionate about building scalable AI systems a
 - OpenAI API, Google Gemini API, Anthropic Claude
 
 **Web & Backend**
-- FastAPI, Flask, Express.js
+- FastAPI,Express.js
 - React, React Native, Next.js
 - PostgreSQL, MongoDB, Firebase
 

@@ -45,20 +45,6 @@ I'm actively seeking roles in:
 - ✅ **AI Startups** - Early-stage companies building innovative AI solutions
 
 **Interested in**: Model development, AI architecture, production systems, and learning opportunities 🎓
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chebaleomkar&show_icons=true&theme=dark&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chebaleomkar&theme=dark" height="170" alt="Streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chebaleomkar&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
 ---
 
 ## 🔗 Connect With Me

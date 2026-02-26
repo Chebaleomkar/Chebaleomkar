@@ -35,7 +35,7 @@ class OmkarChebale:
                 "AI automation workflows (15hrs/week saved)",
                 "LLM-powered intelligent agents"
             ],
-            "impact": "Serving 50+ employees daily"
+            "impact": "Serving 30+ employees daily"
         }
     
     def get_story(self):

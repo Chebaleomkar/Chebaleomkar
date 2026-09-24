@@ -1,7 +1,7 @@
-**Inference and AI/ML engineer.**
+### I work on the layer between the model and the user.
 
-I work on how LLMs are served, and on the agent systems built on top of them.
+**Inference.** How LLMs are served: quantization, KV cache, speculative decoding, batching and scheduling.
 
-Led the coding-agent platform at AI Planet. Founding engineer at RecursiveZero.
+**Agents.** The harnesses, tools and context that turn a model into a system that ships.
 
-[Website](https://omkarchebale.vercel.app) · [LinkedIn](https://www.linkedin.com/in/omkar-chebale-8b251726b/) · [Email](mailto:omkarchebale0@gmail.com)
+<sub>Previously led the coding-agent platform at AI Planet · Founding engineer at RecursiveZero · omkarchebale0@gmail.com</sub>

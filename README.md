@@ -14,13 +14,12 @@ You type a prompt, a sandbox spins up, and a coding agent builds and deploys a f
 
 ```mermaid
 flowchart LR
-    P([Prompt]) --> S[Daytona sandbox<br/>template pre-seeded]
-    S --> A[Agent loop]
+    P([Prompt]) --> S[Sandbox with<br/>pre-seeded template]
+    S --> A[Agent]
     A -- tool calls --> T[10+ tools]
     T --> V{Validate}
-    V -- errors --> R[Recover and retry]
-    R --> A
-    V -- passes --> D([Deploy to Vercel / Netlify])
+    V -- errors: recover, retry --> A
+    V -- passes --> D([Deploy])
 ```
 
 - **Context engineering.** The Next.js template is pre-seeded in the sandbox, so the agent never regenerates boilerplate and spends its tokens on the actual app.
@@ -58,13 +57,11 @@ Next: how serving engines batch and schedule requests.
 
 ### Projects
 
-| | |
-|---|---|
-| [**Math Mentor AI**](https://github.com/Chebaleomkar/Math-Mentor-AI) | Multi-agent solver for JEE math: router, parser, RAG, solver and verifier agents, with image (VLM) and voice (Whisper) input. |
-| [**Legal Lens**](https://github.com/Chebaleomkar/legal-lens-clause-simplifier) | Gemma 2B fine-tuned with QLoRA on 2,000 legal-to-plain-English pairs. |
-| [**AgentBuilder**](https://github.com/Chebaleomkar/AgentBuilder) | Configure agents, orchestrate multi-agent teams, and trace tool calls and token cost. |
-| [**portfolio-2.0**](https://github.com/Chebaleomkar/portfolio-2.0) | My blog platform: full-text search, Pinecone recommendations, and an MCP server that lets agents manage posts. |
-| [**claude-code-ping**](https://github.com/Chebaleomkar/claude-code-ping) | Claude Code plugin for native Windows notifications, in any terminal. |
+- [**Math Mentor AI**](https://github.com/Chebaleomkar/Math-Mentor-AI) · Multi-agent solver for JEE math: router, parser, RAG, solver and verifier agents, with image (VLM) and voice (Whisper) input.
+- [**Legal Lens**](https://github.com/Chebaleomkar/legal-lens-clause-simplifier) · Gemma 2B fine-tuned with QLoRA on 2,000 legal-to-plain-English pairs.
+- [**AgentBuilder**](https://github.com/Chebaleomkar/AgentBuilder) · Configure agents, orchestrate multi-agent teams, and trace tool calls and token cost.
+- [**portfolio-2.0**](https://github.com/Chebaleomkar/portfolio-2.0) · My blog platform: full-text search, Pinecone recommendations, and an MCP server that lets agents manage posts.
+- [**claude-code-ping**](https://github.com/Chebaleomkar/claude-code-ping) · Claude Code plugin for native Windows notifications, in any terminal.
 
 <br>
 
